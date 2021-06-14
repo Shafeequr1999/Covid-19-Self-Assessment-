@@ -143,8 +143,6 @@ printf("\n\n\n\t\tProtecting yourself and others from the spread COVID-19\n\nYou
 
 printf("\n\n\t\t\t STAY HOME \n");
 printf("\n\n\t\t\t STAY SAFE \n");
-printf("\n\n\t\t\t STAY HOME  \n");
-printf("\n\n\t\t\t STAY SAFE \n");
 exit(0);
         }
     }
